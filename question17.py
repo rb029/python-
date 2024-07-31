@@ -5,4 +5,4 @@ for i in range (0,n):
     print(start, end="+")
     sum_seq += start
     start = start * 10+2
-print ("\nSum of above series i s:", sum_seq)    
+print ("\nSum of above series is:", sum_seq)    
