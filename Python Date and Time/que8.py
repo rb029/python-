@@ -1,0 +1,4 @@
+from datetime import datetime
+given_date = datetime(2020,2,25)
+sting_date=given_date.strftime("%Y-%m-%d %H:%M:%S")
+print(sting_date)
